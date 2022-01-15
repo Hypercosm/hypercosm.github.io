@@ -39,7 +39,7 @@ Rust!
 
 Daeken's posted a video showing off HyperMosaic connecting to a test Cosm! You can check that out here:
 
-{% twitter https://twitter.com/daeken/status/1482046423030026240 %}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Anyone can host a website. That freedom has led to the world-changing things we&#39;ve seen over the past 30 years. There&#39;s no reason the metaverse should be owned by Facebook or anyone else. Anyone should be able to run their own. That&#39;s what Hypercosm allows. \ <a href="https://t.co/vvbwRF5XZM">pic.twitter.com/vvbwRF5XZM</a></p>&mdash; Sera Tonin Brocious (@daeken) <a href="https://twitter.com/daeken/status/1482046423030026240">January 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 nicolas17 has also shared a screenshot of the Hypercosm WireShark plugin:
 
