@@ -2,10 +2,14 @@
 title: Hello, Cosmos!
 tags: Meta ProgressUpdate
 author: LemmaEOF
+article_header:
+    type: cover
+    image:
+        src: /content/hypermosaic.png
 ---
 
 Welcome to the Hypercosm dev blog! We'll be using this to host progress updates, showcases, and more as we continue to
-develop the Hypercosm protocol, Cosm servers, and browsers! Because the website is only just being created, let's
+develop the Hypercosm protocol, Cosm servers, and Browsers! Because the website is only just being created, let's
 summarize everything that's been done so far.
 
 <!--more-->
@@ -20,16 +24,26 @@ been updated to the 1.0 version.
 
 ### Implementations
 
-While the Hypercosm project will not host any official implementations of cosms or browsers, multiple community members
+While the Hypercosm project will not host any official implementations of Cosms or Browsers, multiple community members
 have already created Hypercosm-compliant software and frameworks:
 
 - **Daeken** has published [TestCosm](https://github.com/daeken/TestCosm) and
-[HyperMosaic](https://github.com/daeken/HyperMosaic), the first proof-of-concept cosm and browser compliant with the
+[HyperMosaic](https://github.com/daeken/HyperMosaic), the first proof-of-concept Cosm and Browser compliant with the
 protocol! Both use Daeken's NetLib (included in the TestCosm repo) written in C#, and HyperMosaic is built in Unity.
-- **aDot** is creating [nemicosm](https://gitea.treehouse.systems/aDot/nemicosm), a browser implementation written in
+- **aDot** is creating [nemicosm](https://gitea.treehouse.systems/aDot/nemicosm), a Browser implementation written in
 Rust!
 - **Retr0id** is working on a Python implementation of the Hypercosm spec!
 - **nicolas17** is writing a Wireshark extension for Hypercosm packets!
+
+### Community Showcase
+
+Daeken's posted a video showing off HyperMosaic connecting to a test Cosm! You can check that out here:
+
+{% twitter https://twitter.com/daeken/status/1482046423030026240 }
+
+nicolas17 has also shared a screenshot of the Hypercosm WireShark plugin:
+
+![A screenshot of WireShark decoding Hypercosm packets.](/content/wireshark.png)
 
 ### Moving Forward
 
