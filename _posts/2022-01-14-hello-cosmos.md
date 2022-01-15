@@ -39,7 +39,7 @@ Rust!
 
 Daeken's posted a video showing off HyperMosaic connecting to a test Cosm! You can check that out here:
 
-{% twitter https://twitter.com/daeken/status/1482046423030026240 }
+{% twitter https://twitter.com/daeken/status/1482046423030026240 %}
 
 nicolas17 has also shared a screenshot of the Hypercosm WireShark plugin:
 
