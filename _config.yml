@@ -24,6 +24,8 @@ title   : "Hypercosm"
 description: > # this means to ignore newlines until "Language & timezone"
   "Metaverse for anyone, no blockchain required."
 
+permalink: pretty
+
 
 ## => Language and Timezone
 ##############################

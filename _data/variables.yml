@@ -1,11 +1,11 @@
 default:
-  text_skin: default
-  highlight_theme: default
+  text_skin: forest
+  highlight_theme: tomorrow-night
   lang: en
   paths:
     root: /
     home: /
-    archive:  /archive.html
+    archive:  /archive
     rss:  /feed.xml
   mathjax: false
   mathjax_autoNumber: false
