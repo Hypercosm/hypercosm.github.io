@@ -33,7 +33,7 @@ protocol! Both use Daeken's NetLib (included in the TestCosm repo) written in C#
 - **aDot** is creating [nemicosm](https://gitea.treehouse.systems/aDot/nemicosm), a Browser implementation written in
 Rust!
 - **Retr0id** is working on a Python implementation of the Hypercosm spec!
-- **nicolas17** is writing a Wireshark extension for Hypercosm packets!
+- **nicolas17** is writing a [Wireshark extension](https://gitlab.com/nicolas17/cosmshark) for Hypercosm packets!
 
 ### Community Showcase
 
